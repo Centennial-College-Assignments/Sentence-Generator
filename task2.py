@@ -5,10 +5,10 @@ and vocabulary. Words are chosen at random.
 """
 import random
 
-articles = ("A", "THE")
-nouns = ("BOY", "GIRL", "BAT", "BALL",)
-verbs = ("HIT", "SAW", "LIKED")
-prepositions = ("WITH", "BY")
+articles = ("A", "AN", "THE")
+nouns = ("BOY", "GIRL", "BAT", "BALL", "MAN", "STONE", "APPLE", "COMPUTER")
+verbs = ("HIT", "SAW", "LIKED", "SANG", "PRAISED", "MOCKED", "ADMIRED")
+prepositions = ("WITH", "BY", "IN", "UPON", "BELOW", "WITHOUT")
 
 #adding 2 additional tuples called adjectives and conjunctions to be used 
 conjunctions = ("AND","OR","BUT","FOR","SO")
